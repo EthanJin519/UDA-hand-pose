@@ -30,13 +30,21 @@ If you find our work useful in your research, please consider citing:
  	  'webcolors',
  	  'matplotlib'.
 	  
-# Dataset
+# Datasets
 
  [Rendered Handpose Dataset](https://lmb.informatik.uni-freiburg.de/resources/datasets/RenderedHandposeDataset.en.html) (synthetic dataset)
  
  [Hand-3d-Studio Dataset](https://www.yangangwang.com/papers/ZHAO-H3S-2020-02.html) (real-word dataset)
  
  [Stereo Hand Pose Tracking Benchmark](https://www.dropbox.com/sh/ve1yoar9fwrusz0/AAAfu7Fo4NqUB7Dn9AiN8pCca?dl=0) (real-world dataset) 
+ 
+ 
+ 
+ #  Trained models
+ 
+ The trained models can be found [here](https://ait.ethz.ch/projects/2018/vae_hands/downloads/models.zip).
+
+ 
  
  # Run the code
  
