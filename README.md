@@ -66,7 +66,7 @@ ${ROOT}
  
  #  Trained models
  
- The trained models can be found [here](https://ait.ethz.ch/projects/2018/vae_hands/downloads/models.zip).
+ The trained models can be found [here](https://drive.google.com/drive/folders/1S9NKA2Vvn7XP5D9GB9fwMV9BapV2n-YW?usp=sharing).
 
  
  
