@@ -1,0 +1,8 @@
+marsda.py filter=lfs diff=lfs merge=lfs -text
+marsda.sh filter=lfs diff=lfs merge=lfs -text
+models filter=lfs diff=lfs merge=lfs -text
+test.py filter=lfs diff=lfs merge=lfs -text
+utils filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
+marsda filter=lfs diff=lfs merge=lfs -text
