@@ -1,5 +1,5 @@
 
-# Multi-Branch Adversarial Regression for Domain Adaptative Hand Pose Estimation
+# Multi-Branch Adversarial Regression for Domain Adaptative Hand Pose Estimation (MarsDA)
 
 This is the source code for our paper "[Multi-Branch Adversarial Regression for Domain Adaptative Hand Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9732951/metrics#metrics)"
 
@@ -61,7 +61,7 @@ ${ROOT}
 |   |   |   |-- ...
 |   |   |   |-- B6Random
 |   |   |   |-- B6Counting
-
+```
  
  
  #  Trained models
