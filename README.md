@@ -39,6 +39,30 @@ If you find our work useful in your research, please consider citing:
  [Stereo Hand Pose Tracking Benchmark](https://www.dropbox.com/sh/ve1yoar9fwrusz0/AAAfu7Fo4NqUB7Dn9AiN8pCca?dl=0) (real-world dataset) 
  
  
+ You need to follow directory structure of the `data` as below.
+```
+${ROOT}
+|-- data
+|   |-- RHD
+|   |   |-- RHD_published_v2
+|   |   |   |-- training
+|   |   |   |-- evaluation
+|   |-- H3D
+|   |   |-- H3D_crop
+|   |   |   |-- annotation.json
+|   |   |   |-- part1
+|   |   |   |-- ...
+|   |   |   |-- part5
+|   |-- STB
+|   |   |-- STB
+|   |   |   |-- labels
+|   |   |   |-- B1Random
+|   |   |   |-- B1Counting
+|   |   |   |-- ...
+|   |   |   |-- B6Random
+|   |   |   |-- B6Counting
+
+ 
  
  #  Trained models
  
